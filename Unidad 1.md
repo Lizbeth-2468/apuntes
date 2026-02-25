@@ -42,7 +42,7 @@ La graficación por computadora surge a mediados del siglo XX como una forma de 
   - Se aplica en áreas como medicina, arquitectura, ingeniería, entretenimiento y ciencia de datos.  
 
 
-## 1.2. Áreas de aplicación de la graficación por computadora
+## 1.2. Áreas de aplicación 
 
 La graficación por computadora se ha convertido en una disciplina transversal que impacta prácticamente todos los ámbitos de la vida moderna. Su capacidad para transformar datos en imágenes comprensibles y atractivas ha hecho que se utilice tanto en el entretenimiento como en la ciencia, la educación y la industria. En el **campo del entretenimiento**, los gráficos digitales son la base de los videojuegos, las películas animadas y los efectos especiales en cine y televisión. Gracias a ellos, se crean mundos virtuales, personajes realistas y experiencias inmersivas que han revolucionado la manera en que las personas interactúan con la narrativa audiovisual.  
 
@@ -60,11 +60,11 @@ En la **geografía y la cartografía digital**, los sistemas de información geo
 
 Finalmente, en la **realidad virtual y aumentada**, la graficación por computadora es el núcleo que permite crear entornos inmersivos y experiencias interactivas aplicadas en educación, entrenamiento militar, medicina y entretenimiento. Estas tecnologías combinan gráficos tridimensionales con sensores y dispositivos de visualización para ofrecer una interacción directa con mundos digitales.  
 
-En conclusión, la graficación por computadora no es solo una herramienta técnica, sino un lenguaje universal que conecta disciplinas tan diversas como el arte, la ciencia y la industria. Su evolución constante asegura que seguirá ampliando sus aplicaciones en el futuro, integrándose cada vez más en la vida cotidiana y profesional.  
+
 
 ---
 
-## 1.3. Aspectos matemáticos de la graficación por computadora
+## 1.3. Aspectos matemáticos de la graficación
 
 La graficación por computadora se fundamenta en una amplia variedad de conceptos matemáticos que permiten transformar datos abstractos en representaciones visuales comprensibles. Sin las matemáticas, sería imposible generar imágenes, simular escenas tridimensionales o manipular colores de manera precisa. Los principales aspectos matemáticos que intervienen son los siguientes:
 
@@ -82,7 +82,6 @@ Otro aspecto relevante es la **teoría de grafos**, que se utiliza en la represe
 
 Finalmente, la **matemática del color** se basa en modelos como RGB, CMY, HSV y HSL, que describen cómo se combinan los componentes cromáticos para generar diferentes tonalidades. Estos modelos se apoyan en transformaciones matemáticas que convierten valores numéricos en percepciones visuales, ajustando brillo, saturación y matices de manera precisa.  
 
-En conclusión, los aspectos matemáticos de la graficación por computadora abarcan desde la geometría y el álgebra lineal hasta el cálculo, la estadística y la teoría de grafos. Cada uno de estos campos aporta herramientas indispensables para que las computadoras puedan construir imágenes, simular entornos tridimensionales y representar fenómenos visuales con un alto grado de realismo. La integración de estas matemáticas convierte a la graficación en una disciplina rigurosa y, al mismo tiempo, creativa, capaz de unir la lógica formal con la expresión visual.  
 
 ---
 
@@ -159,9 +158,9 @@ En el ámbito práctico, los polígonos también se utilizan para definir **mall
 ---
 
 
-### 1.5.1. Formatos de imagen
-*(Describe los principales formatos de imagen.)*
-
+###1.5.1. Formatos de imagen
+![Flor de la vida](flor de vida.png)
+![Polígono](poligono.png)*
 ---
 
 ## 1.6. Procesamiento de mapas de bits
