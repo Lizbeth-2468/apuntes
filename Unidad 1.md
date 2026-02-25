@@ -158,7 +158,7 @@ En el ámbito práctico, los polígonos también se utilizan para definir **mall
 ---
 
 
-###1.5.1. Formatos de imagen
+##1.5.1. Formatos de imagen
 
 
 ![Flor de la vida](flor_de_vida.png)
@@ -184,4 +184,9 @@ Además, el procesamiento de mapas de bits se utiliza en la **compresión de im�
 En aplicaciones avanzadas, el procesamiento de mapas de bits se combina con técnicas de **visión por computadora** y **inteligencia artificial**, permitiendo reconocer patrones, identificar objetos y analizar escenas. Esto se aplica en áreas como la medicina (detección de tumores en imágenes médicas), la seguridad (reconocimiento facial) y la industria (inspección automática de productos).  
 
 ---
-
+ bibliógrafa
+ Client challenge. (s. f.). https://es.slideshare.net/slideshow/historia-de-la-graficacin-por-computadora/53956334
+ 1.2 las tic’s y areas de aplicacion. (s. f.). https://sites.google.com/view/huizar-araujo-a1k/unidad-1/1-2-las-tics-y-areas-de-aplicacion
+ Prezi, I. C. S. O. (s. f.). 1.3 Aspectos matematicos de la graficacion. prezi.com. https://prezi.com/rfbjnkn2iqwc/13-aspectos-matematicos-de-la-graficacion/
+ Modelos de color RGB, CMY, HSV y HSL. (s. f.). https://graficaciontmmjc.blogspot.com/2019/03/modelos-de-color-rgb-cmy-hsv-y-hsl.html
+ colaboradores de Wikipedia. (2026, 19 febrero). Imagen de mapa de bits. Wikipedia, la Enciclopedia Libre. https://es.wikipedia.org/wiki/Imagen_de_mapa_de_bits
