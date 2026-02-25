@@ -159,7 +159,7 @@ En el ámbito práctico, los polígonos también se utilizan para definir **mall
 
 
 ###1.5.1. Formatos de imagen
-![Flor de la vida](flor de vida.png)
+![Flor de vida](flor de vida.png)*
 ![Polígono](poligono.png)*
 ---
 
