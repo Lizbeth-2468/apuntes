@@ -42,7 +42,7 @@ La graficación por computadora surge a mediados del siglo XX como una forma de 
   - Se aplica en áreas como medicina, arquitectura, ingeniería, entretenimiento y ciencia de datos.  
 
 
-## 1.2. Áreas de aplicación 
+## 1.2. Áreas de aplicación
 
 La graficación por computadora se ha convertido en una disciplina transversal que impacta prácticamente todos los ámbitos de la vida moderna. Su capacidad para transformar datos en imágenes comprensibles y atractivas ha hecho que se utilice tanto en el entretenimiento como en la ciencia, la educación y la industria. En el **campo del entretenimiento**, los gráficos digitales son la base de los videojuegos, las películas animadas y los efectos especiales en cine y televisión. Gracias a ellos, se crean mundos virtuales, personajes realistas y experiencias inmersivas que han revolucionado la manera en que las personas interactúan con la narrativa audiovisual.  
 
